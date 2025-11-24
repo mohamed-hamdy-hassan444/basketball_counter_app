@@ -3,10 +3,6 @@ Flutter application to count basketball points for **Team A** and **Team B**, bu
 
 ---
 
-## 📱 Screenshots
-(ضع صور التطبيق هنا بعد رفعها في GitHub داخل مجلد assets)
-
----
 
 ## 🚀 Features
 - Count points for **Team A** and **Team B**
